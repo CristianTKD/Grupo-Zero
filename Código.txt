@@ -1,0 +1,10 @@
+<div class="col-lg-4">
+                <div class="card">
+                  <img src="Imagen/galeria/image_ga_cr.png" class="card-img-top" alt="Tejidos a Crochet">
+                  <div class="card-body">
+                    <h5 class="card-title">Tejidos a Crochet</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk!</p>
+                    <a href="tejidos.html" class="btn btn-primary">Leer más...</a>
+                  </div>
+                </div>
+              </div>
